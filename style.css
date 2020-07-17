@@ -2,7 +2,6 @@
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-
 .f-right {
   float: right;
 }
@@ -71,7 +70,6 @@
 }
 
 .portfolio {
-  height: 800px;
 }
 
 h2 {
@@ -81,16 +79,13 @@ h2 {
 }
 
 .box {
-  width: 332px;
-  height: 240px;
   margin-bottom: 30px;
   background-color: green;
   border-radius: 10px;
 }
 
 .dimension {
-  height: 240px;
-  width: 332;
+  width: 100%;
   border-radius: 10px;
 }
 
@@ -118,7 +113,6 @@ h2 {
 }
 
 .about {
-  height: 400px;
   background-color: #15BB9C;
   color: white;
 }
@@ -170,17 +164,10 @@ h2 {
 }
 
 .footer-top {
-  height: 300px;
   background-color: white;
   color: white;
   text-align: center;
 }
-
-.contact {
-  height: 500px;
-}
-
-
 
 .social-logo li {
   list-style: none;
@@ -191,13 +178,7 @@ h2 {
   margin-right: 10px;
 }
 
-.footer-top {
-  height: 300px;
-
-}
-
 .footer-bottom {
-  height: 100px;
   text-align: center;
   background-color: #1A252F;
   color: white;
