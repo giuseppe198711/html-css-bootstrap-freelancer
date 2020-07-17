@@ -19,7 +19,6 @@
 
  .start{
   margin-top: 50px;
-  height: 730px;
   background-color: #15BB9C;
   color: white;
 }
@@ -69,7 +68,8 @@
   display: inline-block;
 }
 
-.portfolio {
+h3 {
+  margin-bottom: 100px;
 }
 
 h2 {
@@ -80,7 +80,6 @@ h2 {
 
 .box {
   margin-bottom: 30px;
-  background-color: green;
   border-radius: 10px;
 }
 
@@ -132,35 +131,9 @@ h2 {
   padding-right: 40px;
 }
 
-.contact-list {
-  list-style: none;
-  margin-right: 400px;
-  margin-top: 50px;
-}
-
-.pos {
-  margin-right: 40px;
-}
-
-.line {
-  width:500px;
-  border: 1px solid grey;
-  margin-left: 300px;
-  margin-bottom: 25px;
-  margin-top: 25px;
-}
-
-.last-line {
-  width:500px;
-  border: 1px solid grey;
-  margin-left: 300px;
-  margin-bottom: 30px;
-  margin-top: 120px;
-}
-
 .btn-info {
   border-radius: 10px;
-  margin-right: 350px;
+
 }
 
 .footer-top {
